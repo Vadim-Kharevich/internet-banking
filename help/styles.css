@@ -1,0 +1,67 @@
+*{
+	margin:0;
+	padding: 0;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	margin: 20px;
+}
+h3{
+	margin: 15px 0 15px 20px;
+}
+.sidebar{
+	margin: 15px 0 0 20px;
+	background-color: red;
+	border-radius: 15px;
+	width: 250px;
+	height: 380px;
+	position: fixed;
+	padding:15px 0 0 15px;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.but{
+	margin-top: 10px;
+	font-size: 20px;
+	line-height: normal;
+}
+.content{
+	width:70%;
+	text-align: left;
+	float: right;
+	margin-right: 30px;
+}
+.big{
+	width: 700px;
+	height: auto;
+	margin-left: 15%;
+}
+.small{
+	width: 350px;
+	height: auto;
+	margin-left: 32%;
+}
+.small1{
+	width: 500px;
+	height: auto;
+	margin-left:25%;
+}
+img{
+	border:1px solid black;
+	margin:15px 0 15px 0;
+}
+.podpis{
+	margin-top: 5px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+hr{
+	margin-top:10px; 
+}
+p{
+	font-size: 19px;
+	line-height: 1.8;
+}
